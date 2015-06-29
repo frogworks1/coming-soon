@@ -1,3 +1,33 @@
+#wrapper1 {
+  background: #FFE5B7;
+  overflow: hidden;
+  transition: height 200ms;
+}
+
+#wrapper2 {
+  background: #FFE5B7;
+  overflow: hidden;
+  transition: height 200ms;
+}
+
+#wrapper3 {
+  background: #FFE5B7;
+  overflow: hidden;
+  transition: height 200ms;
+}
+
+#wrapper4 {
+  background: #FFE5B7;
+  overflow: hidden;
+  transition: height 200ms;
+}
+
+#wrapper5 {
+  background: #FFE5B7;
+  overflow: hidden;
+  transition: height 200ms;
+}
+
 meta.foundation-version {
   font-family: "/5.5.2/"; }
 
@@ -3788,8 +3818,8 @@ h6 {
   border-width: 1px 0 0;
   clear: both;
   height: 0;
-  margin: 1.25rem 0 1.1875rem; }*/  
-  
+  margin: 1.25rem 0 1.1875rem; }*/
+
 hr {
   border: solid #91BED0;
   border-width: 1px 0 0;
